@@ -3,3 +3,5 @@
 - Tarefa 3
 - Tarefa 4
 - Tarefa 5
+- Tarefa 6
+- Tarefa 7
